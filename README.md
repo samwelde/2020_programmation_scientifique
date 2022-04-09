@@ -1,8 +1,8 @@
 # 2020_programmation_scientifique
 
-Connaissance générale des ordinateurs
-Compétences élémentaires en programmation
-Compétences pratiques : 
+Connaissance générale des ordinateurs //
+Compétences élémentaires en programmation//
+Compétences pratiques : //
 - calcul numérique, traitement des erreurs 
 - traitement des données 
 - production de graphiques 
